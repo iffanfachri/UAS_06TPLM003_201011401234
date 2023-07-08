@@ -31,7 +31,7 @@ class HomeScreenState extends State<HomeScreen> {
       body: Stack(
         children: [
           Image.network(
-            'https://cdn.pixabay.com/photo/2017/08/01/20/06/city-2567670_1280.jpg',
+            'https://cdn.pixabay.com/photo/2021/01/25/18/38/storm-5949243_1280.jpg',
             fit: BoxFit.cover,
             width: double.infinity,
             height: double.infinity,
